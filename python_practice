@@ -3,7 +3,8 @@ list2 = []
 i = 0
 for i in range(len(list)):
   list2.append(list[i])
- print(list2)
+  list.pop()
+ print(list24)
 
 
 
